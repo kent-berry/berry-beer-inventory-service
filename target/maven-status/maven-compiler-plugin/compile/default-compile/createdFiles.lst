@@ -1,0 +1,12 @@
+com\berrybeerinventoryservice\web\mappers\BeerInventoryMapperImpl.class
+com\berrybeerinventoryservice\bootstrap\BeerInventoryBootstrap.class
+com\berrybeerinventoryservice\domain\BeerInventory.class
+com\berrybeerinventoryservice\web\mappers\BeerInventoryMapper.class
+com\berrybeerinventoryservice\web\controllers\BeerInventoryController.class
+com\berrybeerinventoryservice\web\model\BeerInventoryDto.class
+com\berrybeerinventoryservice\repositories\BeerInventoryRepository.class
+com\berrybeerinventoryservice\web\mappers\DateMapper.class
+com\berrybeerinventoryservice\domain\BaseEntity.class
+com\berrybeerinventoryservice\web\model\BeerInventoryDto$BeerInventoryDtoBuilder.class
+com\berrybeerinventoryservice\BeerInventoryApplication.class
+com\berrybeerinventoryservice\domain\BeerInventory$BeerInventoryBuilder.class
