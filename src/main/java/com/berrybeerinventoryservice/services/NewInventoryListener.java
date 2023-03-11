@@ -2,7 +2,7 @@ package com.berrybeerinventoryservice.services;
 
 import com.berrybeerinventoryservice.domain.BeerInventory;
 import com.berrybeerinventoryservice.repositories.BeerInventoryRepository;
-import com.common.events.NewInventoryEvent;
+import com.brewery.model.events.NewInventoryEvent;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;
